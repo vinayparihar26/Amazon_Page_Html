@@ -1,0 +1,3 @@
+# Amazon_Page_Html 
+Sure, here is a sample README file for a GitHub repository containing a basic Amazon page using HTML:
+This repository contains a basic Amazon page using HTML. The page includes a displays a list of share by using .....
